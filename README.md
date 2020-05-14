@@ -12,6 +12,7 @@ Python must be installed.</br>
 Install difflib using pip
 
 ## Running the tests
+Use the command python app1.py.
 
 Now just enter the word you want meaning for.
 
